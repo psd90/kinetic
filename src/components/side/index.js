@@ -14,9 +14,9 @@ const Side = () => {
                         <li className="sideList"><a href="#profile">Profile</a></li>
                         <li className="sideList"><a href="#id">ID Badge</a></li>
                         <li className="sideList"><a href="#roles">Roles</a></li>
-                        <li className="sideList"><a href="#picture">Profile Picture</a></li>
+                        <li className="sideList"><a href="/picture">Profile Picture</a></li>
                         <li className="sideList"><a href="#achievements">Achievements</a></li>
-                        <li className="sideList"><a href="#documents">Documents</a></li>
+                        <li className="sideList"><a href="/documents">Documents</a></li>
                     </ul>
                 </nav>
             </div>
